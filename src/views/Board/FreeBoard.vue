@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="d-flex justify-content-center">
-      <img src="/src/assets/community.jpg" alt="" id="community_img">
+      <img src="../..//assets/community.jpg" alt="" id="community_img">
     </div>
 
     <div class="d-flex justify-content-md-end">
