@@ -430,7 +430,7 @@ export default new Vuex.Store({
 
     onYoutube: function(context, movie_title) {
       const query = movie_title + ' trailer'
-      const API_KEY = process.env.VUE_APP_YOUTUBE_API_KEY
+      const API_KEY = VUE_APP_YOUTUBE_API_KEY
       const API_URL = 'https://www.googleapis.com/youtube/v3/search'
 
       const params = {
