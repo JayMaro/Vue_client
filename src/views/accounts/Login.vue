@@ -17,7 +17,7 @@
 <template>
   <div>
     <div class='d-flex justify-content-center' id='imgdiv'>
-      <img src="/src/assets/login.png" alt="" id="loginImg">
+      <img src="@/assets/login.PNG" alt="" id="loginImg">
     </div>
     <div class="container d-flex justify-content-center">
       <form @submit="onSubmit">
