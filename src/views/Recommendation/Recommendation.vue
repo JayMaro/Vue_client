@@ -2,7 +2,7 @@
 
   <div>
     <div class="d-flex justify-content-center">
-      <img src="@/assets/recommend.png" alt="" id="recommend_img">
+      <img src="/src/assets/recommend.png" alt="" id="recommend_img">
     </div>
 
     <div class="input-group mb-3">
