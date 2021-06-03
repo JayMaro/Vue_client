@@ -8,7 +8,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     // server_url을 변수로 저장했습니다.
-    server_url: 'http://127.0.0.1:8000/',
+    server_url: 'http://52.14.33.225/',
     movie_list: [],
     now_playing_movie_list: [],
     review_list: [],
