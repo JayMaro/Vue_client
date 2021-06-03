@@ -1,7 +1,7 @@
 <template>
 	<div class="container">
 		<div class="d-flex justify-content-center">
-			<img src="@/assets/map.PNG" alt="" width="200em" height="100em" >
+			<img src="@/assets/map.png" alt="" width="200em" height="100em" >
 		</div>
 		<div class="map_wrap">
 				<div id="map" style="width:100%;height:135%;overflow:hidden;"></div>
